@@ -72,8 +72,8 @@ This codebase merges the best components from two task segmentation projects, pr
 
 ```bash
 # Clone repository
-git clone https://github.com/your-org/task_seg.git
-cd task_seg
+git clone https://github.com/KeplerC/RoboSegNet.git
+cd RoboSegNet
 
 # Create virtual environment
 python -m venv venv
